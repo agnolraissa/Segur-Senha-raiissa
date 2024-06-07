@@ -34,4 +34,12 @@ body {
 .conteudo-titulo{
     text-align: center;
     margin-top: 80px;
+
+}
+
+.conteudo-senha{
+    background-color: var(--fundo-senha);
+    padding: 24px;
+    border-bottom: 6px solid var(--borda);
+    margin-top: 80px;
 }
